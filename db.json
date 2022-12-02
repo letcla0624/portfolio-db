@@ -1,0 +1,353 @@
+{
+  "works": [
+    {
+      "id": "1",
+      "title": "愛月嫂－網站迭代設計",
+      "description": "主要負責網站頁面規劃、設計，並執行網頁切版、JQuery 的動態顯示和 JavaScript 的應用。",
+      "url": "web1/1",
+      "img": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1662989569183.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=DroHRFKqgyZ02tAFgmphsnrqYinKOO7daRgloGyyeCe0Zd%2B5b2G7%2FQBrhMp%2F3pooiMYV1NRXdnmMWB%2BX4B10pxoM29miRBjvw9GmINUBYsrPIbTqDZG117VpKiS7Q7t1D75ooODqUqKkXeyAVCKRhEfU5FN%2B5msiLfSHOhmWBdGDEAr592F2XZGyGe8LoOWAqwphcyv76h3SIJiQFo2rTC6mH5npJDgM8vpnHEUNE2Apq9PLVWHn%2FrePwtV0nGkPBEUoNwZFdbz76yalDJUzf%2FO63pwereK0YK4nAwMl6oCT54lveTSTojK8HD7jE4szqlNlWK4aKbU3AuavuZESVg%3D%3D",
+      "alt": "頁面改版設計",
+      "year": "2018-2021",
+      "skills": [
+        "Photoshop",
+        "Illustrator",
+        "HTML 5",
+        "CSS 3",
+        "Bootstrap 4",
+        "JavaScript",
+        "JQuery",
+        "RWD",
+        "Chart.js"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "愛月嫂－母嬰工具 App",
+      "description": "目前只在初步研究設計階段，並未完善，暫時由我一人主導並設計，尚未和工程團隊溝通討論。",
+      "url": "app1",
+      "img": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1662986376789.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=pBc8bPYzFi%2B%2FGhRKhypQ2ivcpvhsHiniYox7evH4i7LOrN98JmuVnUM835saUGbsevMSD%2B4i1bgU5uE9F059aHqy%2FHHJhJhaA1bnvK7n7vy6w1R%2FWI2EuC%2FR0VhqqSHIpEOyMWGjoFZcnj7sg57ziCFBzed9rVh%2BxRsgTHjhBR3ER9ZRRoyNEYsHt7Iy3NAg9ocA2BGZVJBDb7YjCMvyY5rpW2vVztQ%2Bbb2iawEtWpw9oXns8lmyESzh2W2nSeeMXfR7BwKtUhrjRcsDglvXN%2Bja2My483FrEtWQHGqGPWr40ntT6h1AkqM84XYcZTXUGkhOx1HD0jRinnxFZZmjFw%3D%3D",
+      "alt": "母嬰工具App",
+      "year": "2020",
+      "skills": [
+        "Illustrator",
+        "Figma",
+        "User Story",
+        "Functional Map",
+        "Flow Chart",
+        "Wireframe",
+        "Prototype",
+        "Mockup"
+      ]
+    }
+  ],
+  "personals": [
+    {
+      "id": "1",
+      "title": "江戸前寿司 Edomae Zushi",
+      "description": "使用 Bootstrap 5 + Vue CLI + Vue 3，並串接 RESTful API 來建構前後台 CRUD 頁面。",
+      "url": "https://letcla0624.github.io/edomaeZushi",
+      "img": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1658061691919.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=nagfc6Cr%2FXQ45O9YDDDdN9vXh1VBLikllT7kK8q9z30T8FWoO1bjDgVfuvECDOqIp3rcbJVoxOBp4i6YVYFm9wxVOsSjrVLEpo4XYz%2FqeaartXHXScJrZ9Dmi5ZpHm6QtHs1FPp5lDlzxfQ16M7ZGjVY9P5xRGf4%2Ftzh2cATch8AOUaPhdzOP6xFOTWSmJBtOCDLNA5uM58kSzYGWhacteygwBNp%2Bs9P9qSdmihQYfejpqzkFXDZjtpMZxbTdK0ovw2%2Bk95pFYfjjQkOzAiUfSF9je2UMJuIn1sLHTFnzIM8nd9QFwQmVaEJLmbUyJ41Ea8tX55T2RQ%2BAWkR%2F2kgAg%3D%3D",
+      "alt": "江戸前寿司 Edomae Zushi",
+      "year": "2022",
+      "skills": [
+        "Illustrator",
+        "HTML 5",
+        "SCSS",
+        "Bootstrap 5",
+        "Vue 3",
+        "Vue CLI",
+        "JavaScript",
+        "Leaflet",
+        "RWD"
+      ]
+    }
+  ],
+  "tailwinds": [
+    {
+      "first": [
+        {
+          "id": 1,
+          "title": "IOS 15 介面",
+          "description": "Tailwind CSS",
+          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657024746510.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=VNZ2qGbiJm2XPkxHaP9c%2FWq4%2B2cJKnWky6Wn9ea6hFY8itiBd0vfNfDSLYQYJxHhw1cEtayMyEuCUbFYIzpwqhh3L3j8DLRoczR0X3EFwaoO%2BZD%2BDD%2ByS4q77I1bcpM6epVWgmgc2FGa5IWNL%2FEmMJ4HeqIVkjkDLhxbERd2jHYiJmJArPX2y%2FGgfb%2BUifxS65yr78triogbhgoZcmFH0yJeCmdoJP486hIx0hE94Etbow3SydwV%2FQFPBAyyZpkWJIegZ85ztZ1wh4%2BaaPQCP1QgCUsaa9wQAuy481iZrpQHgFbvH3Swnxxqf3vE2u%2BnD8xjTrhQfKGz6xHmPLpABg%3D%3D",
+          "url": "https://codepen.io/WILL_Wu/pen/dyzVgBW"
+        }
+      ]
+    },
+    {
+      "others": [
+        {
+          "id": "1",
+          "title": "Grid 照片排版",
+          "description": "Tailwind CSS",
+          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657024712855.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=jWLn73c5G8Sz%2BmTYpmiMRsf4hzj8%2BedmyEuKCVfv20Cwn4qfZzXih4J2Z%2FHW1vhJagG71TrVFf2Zmxfh1Rxfogm7NVGjEJRcKqvqCzFhJHxCDIc6k9EvuR%2Bl6hCd6Ou16RmWiLfW4ib8V%2F5aT7rXbXN2nJaXJr1FGJhraYVsisUfTOze25HzQSgQ3DSXIa5r7jY26F1zaJKous6PeyA9jDXAGF2uT%2BGlSxSDRI%2BCj86IX9HaQZxilxkcfULL5068CwIuxn1z8RSLDfsrx8oOT0%2FumdBxTuWsOCSA16Zaotkf0rM6QrP%2FkLmmDR0bf6pw02o6F4iG837oK7YZCBAw9Q%3D%3D",
+          "url": "https://codepen.io/WILL_Wu/pen/oNewapw"
+        },
+        {
+          "id": "2",
+          "title": "Login 浮動標籤",
+          "description": "Tailwind CSS",
+          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657024665515.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=RnCvsfe5xyWWcezcChRNdjIGcQTZznjVZo1xRf21EokxgyiCzrotSCxpUxnnE7Y1j9ifXX25bHpmxJ3qFOBsT2DyiuRf7tgTP%2BFSACt5p46i4bBD6qtUNAIcrZEYoBMf9jhUvZ4fqKSbky3BAUQkFUG5WcgpbkqxAHP5jOBnL75rtehB9S9djS4h574nSZbSUVMYbHQXwvII0rqyC9zbW%2FnB%2F%2BriV4hWU9Eyd3PGEjbQLDxrtt5OfxjhEnpJP0LX%2FjdVvHmphP6GUg07AvWAEsyYBiN11v0h9ZfQ1Pk9yWn3UdPi4ikdQj5uXZTkKNNZzbVfD3q%2BS5YHzipYghCPCg%3D%3D",
+          "url": "https://codepen.io/WILL_Wu/pen/RwZLqMY"
+        },
+        {
+          "id": "3",
+          "title": "RWD 價目表",
+          "description": "Tailwind CSS",
+          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657024687171.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=jEikPDAg586vGpOBdGIL7rC6NOJMoVucDu54ccbdvd5%2BbzO36sDpzjGjWLwTbOeanGkyNiLFRlNNBrQ9UFhFWlDCnQtkGOyXO4HkuEsqaTUPXO3Eipj5T5YUItyFkT79E8F6uJV5CoCB2trmkQ47gIevyQNEH3RcE9nJEY5cyBGld%2BrnQOPmiDtiW9%2FGjl%2FOrbPJS4m2hcMnOizGRbdrhh4oUfO8qg0LmGPRltuBhQrWuNZaXmkhtfxtEPcdq1mznyP8RjwwXZUWf0pnbUOS8OJaBaUTF5mQmvOMwvtZoaDEswafUx%2Bhhq5Jsj09kFByh84E6QbBg%2FWzX4UIFzlV%2Bg%3D%3D",
+          "url": "https://codepen.io/WILL_Wu/pen/WNOaMEo"
+        },
+        {
+          "id": "4",
+          "title": "中秋漸層",
+          "description": "Tailwind CSS",
+          "img": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657024701650.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=k3knGfMRyrVs3iCCsWqJdVnYdJVGuIkMDmXbtq080k4DWJLzhwFXm%2FK8acB6cLvGVainvgbo%2BQrw11y4ukwA80hw1xAd7jtgT6RkMHPL7eYZu0TfUvV7hmwu7yaCxdp01VtnHFsRByFRyQin1Qde9nrIqWLlXGLn4DPNX%2BEAbmOkmZtOF02mMj%2FQGS2tXSPb%2FLi4jBEje8K5v7%2B8qCiLJkLo2eYLAt%2Ffkag0ItD0p07%2BC4am0ZxQPPLJX0dWHUEueuvjogrXV4riazf7JX%2FKZRG2RTH4LzC24ZXENBCd78cGpaONLDRswx55qM%2B9jgA1HbCJcBuOHOPENLFrRX0RaQ%3D%3D",
+          "url": "https://codepen.io/WILL_Wu/pen/powLVbp"
+        }
+      ]
+    }
+  ],
+  "figmas": [
+    {
+      "id": "1",
+      "largeURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657028023296.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=k4iZnP6twF7LgtkbgGr2i7Il80Ha1VphJDRCswO4hO25%2Bu9jrE%2BLjhVXCIqA7zV32uN6eKnzlbIzWq%2BsYSiCTjrlRzPP30Zi%2BWJBfoY1c4JYJTBTbNlIEET1kg0UoUb8WdEUl2qYCDyIwlhtFffy8kuurbkXmuOpC4VgB%2BzXOwnx9pAI4Vz6P%2FMXcNT%2BhcPYhWcWrm8X3McSPuUpFJ13xnZpRNmpVmOMUnd9nM0GPuvZoxxQ1eknXpmJ8a7XXNhq1uM07lOJcSAQjbA5aZmNXqhA11lDeYhImIbMKIPxuBjj9aoLCKTNdpYi%2FQR0QvgrGyFqAeK8uRRSPYAunQhzDg%3D%3D",
+      "thumbnailURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657027213905.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=Vt%2F8PJtAWuu17amun5LtfdgbnRK3QwG%2FmEkN7LCd7hhKNhSizd0ktyhKhaUuDwQzBGjCS%2BZN6FfbhoEDO0JgyAo6gj3VNrdlKVdLJPpClgNbz6cmy3YOg7Ogo1jnpl5igUYfOHBGPP0b0j%2BkhHfXcRE0t%2FHWXNT%2FToWmtvCTbWjifxAe9wBe6ywpVTgmQg63wHi78MCkh1r1TFvEFT%2FC9cEeARZ3n0yGC13e4QT%2Fp2Emu09QGEzGGn4JrrFTdK%2FX%2Bwtgx%2FvyfRc9q1s7n%2BWsjYrRs6z4Aag6HcoJbHYg3cFDSobetfXSEI566BFfq1c1RkGsa0DoWN3QJpaRjymkFQ%3D%3D",
+      "width": 1600,
+      "height": 1067,
+      "alt": "霧面隨行卡登入頁"
+    },
+    {
+      "id": "2",
+      "largeURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657028890184.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=ZCp%2Bwt5gQfKJPZazHvyyHYY7iSSKe04fUtMzUfjpUBynwrQl%2Brb0kTSlcqq7OcJLVNIJjlTVFxpyU6B7K5XKz6ppSd09Kb6hSeTyDPpsfZaJ%2F5k6jsGawuW1TTdlcOGU5aMbX8nXg1yUzhBkh3z7kvelvn0hsRC%2BVZLSkITkK181vx5g5Z3jJtc%2BEKR7YEgk6yDbruZIqUoWzpW6mC5zC6%2BExR3K0JXUabwD%2FkA7HWLcZvkgy%2FR%2B8u01Elk34G6GnthbYi%2FZBrWuRvpqjhdoFVpCkhq1NijxM66gKX0scbv8DU1GSFfHDod58%2FEUMjydvUmgs%2BkXLn8gDe67Ihd0yQ%3D%3D",
+      "thumbnailURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657029011866.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=TE3pX0x%2BEnPPghKkPIXTJbzT%2BGfC4vwo%2FCUWw6OJbHTWxa3YRqV4lYSvPOrNKy1QJe7TPbEpSz%2FaqTsSp%2Fcpz57YeJ0YHl%2Fs17z6vLNFOF3jOUgoADV5ZeYcs3J1KBb5jNQmzN3kI91rxjCw4AFuCaeEBenN3q5hnlQPpLt3RmxLTinH%2Bo3%2F4vitoMSk1TqMJowxuB03VE%2FJRuH%2BMHZf4TZ8V2S1IM5YcYz7QjYX0PF553OC6PwJ7%2B%2Fj9OSgIGSGmZZpw0SwBBm49dJptgF6mFXUy6NoOKKSQtd3N%2B8Qe5XwF792PN2cAVj2Y62avMKAXgtIVc%2BjOGcjD9IemGnjlg%3D%3D",
+      "width": 1600,
+      "height": 1067,
+      "alt": "新擬物化計算機"
+    },
+    {
+      "id": "3",
+      "largeURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657029205214.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=fWO%2BYC2jKGSo0RThDkSxy4RLcCIvqRzweqrkPYXAoeRQiSazJgUCrGTClJ10ADTFAkgflsQVnt9%2BkMa7aDA1VGSPBTqAtSzSPTSo1TArDFHvYYc4j0GLDFOmHSCeod2C1hFTP%2F%2BO7vePUbgGXrCFmc304QKWigbjeNKi7ylDGMSsRqbdC1nxOzBAXupYlUkjpm07JAnfoUrLj7CVujmQnCvMWXS%2Fl4nsbt2l1Hg1bQ%2BSORvihNIdsEIh86a6PsA6xIYa8jHyQTNUcq1QfdDAx9cOqIPrTP8rCft2r7l0%2FxY75mzQO0bnbwS7CJEVCPni79xNXuFJquX%2FpK4qkyjOpA%3D%3D",
+      "thumbnailURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657029729037.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=UEO96JJzNlZjCxk%2FSpQIXV62mu2eYXzw2C5iShbc%2BqSaHeo6%2BNbqAextv9VOP4k%2B5TGzBapdnyenuCtWZFDZk90ZZoiYT%2BmL%2Ba4HB776f7143spe6zUmVAaewKmEBRH7UR0QECdrOATpbmjiK9F4WP0MDmKgj7pu0eBIPZLzB19fjRkqU%2FanhZVhZROmdvyy21VqiUiA4bNw3Pel7pUNA5mKaXlri2NYymRzGVe%2F%2BDalrHy7quZbo4YIWZPYN5SabWzyYo3qM%2FtU56vVzSc%2FX3%2Fe2d2v%2Bta7idbIK5d%2BjbOXAki0FxedqsfvnIpBAnwI8lPtHUa8vW4JO%2Fj1W3FJJA%3D%3D",
+      "width": 1600,
+      "height": 1067,
+      "alt": "Apple Watch x Hermès"
+    },
+    {
+      "id": "4",
+      "largeURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657029577632.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=UjXTHZRZ8DzSQhruyLuVd6kUU9VpesolI7KR3usu4d5Uo8xO83DTucC1IV4Q%2F0pxGFoHup7izYC29WjmjFDthPnNjDCN7iL5%2FtFGM6k4mroUFh3w57pk8c40IIp7HUwN2wDF8XzuiMXmmq35hqEo%2FqsSddOnBd6deBXM%2BWc90aImZJPGNC62AP3TbqDsigQO6j%2FG6AS0Ml5QKGrbPqqlQJUeuWPFClezp1yr99r%2B53MgEyiZVFBuPWD3snKo0xF%2FmNfAhTs6532Gb%2BXM4yaDjOmhP0ZMrolo912AHls8e7a%2FJnoeGLZxt%2Bp0l3JvS95iUFJ39faj6wSXe7gxerY%2FCw%3D%3D",
+      "thumbnailURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657029745478.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=qAqg0GgdzXOo2C7hEi%2Fpr0Woi1pSVY20L%2BvqxtiReHFzn6F1iMWBLb%2FPu74%2B1wwWZ3ecrqHqr83lBIQr%2BICVHHnygcMeqnE09nUWk7HygWu0HVUvh%2FLrqrdqgpGNBx40dnPMdtTccY2%2BFrtH9is3gAr5b2sbh4a8kvhNe5NFXg3ahjPZ1n0E2kwP3thJwlcMRL4ns1wy%2FqG0IaxiO6oWRSpwxWyiMGWrHTc24IpfujyCtvgzyEjRT0hKtWp1TCzhMn2FMejkIvTXePfIW3BiCHVZmeNWdLrz2B58iE%2Bs5ceK8EbSduoQ0Jk7kh8z45yka%2BqOPmDkWosoMa%2FaOXa%2FLw%3D%3D",
+      "width": 1600,
+      "height": 1067,
+      "alt": "玻璃質感月曆"
+    },
+    {
+      "id": "5",
+      "largeURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657029952035.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=b7aJEdYJATSdMi6VoTsNzQwusYQWRfBdSlT6BsLawQO0WKejW1rmWTH8c3vjD8fO2%2FKOLpzvs5piefjHMMRznbgCaPBsgr%2F3CqA%2BnPF3iBthY69a677tRixUsk6MfQmDM1Oc1gvATd%2FUHpVzLoAmPXwN6NWDN77VNmYNnUk7FEHq2mF6rAjSVin2z%2FvZZRrldgEDmowkZ33rbaMPMd4Qci2b4Av5XeeSWbwbWNaFQdD%2FHhLByNAgK9XtyGyRiakNaYW5V8ZBgc%2FOpFtBYebpmAYhC3%2Bcx%2FSpE5KTUGOo4y3sT9SKA2lLQqOLL9ixcb93YdUGHNeFkmTpOn%2BhvZGfpQ%3D%3D",
+      "thumbnailURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657030027095.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=JCtpaGEwyg2MIuHAWjACDaBddxslv%2FyeMExjmyxG7Np7gok1i2yZRUTonEthy0w7NXEMxgeBGGWieHmh8uqr%2BhsaeUkwP2m4vjPULNSuncXtfpstTvKSFRXaNCcf6EoNZ1Ug%2BFd6WfxgivpmkwhUv1YgsFMdvaofJGoi9nPS0TE584hpX4SiBAONH%2B0bSperOXAlQIH1QR%2BI6j3zWCK5sfTpElKfTP1HQ9XUkM%2BRMDhKfLBqOJpOaNyIwXBBI%2FpvDTX3UhkOlV1KOdIAoPQCYaVa%2F%2B%2FSSO7E1vl61ZRk755ZnVQeXnCsTQA0qk%2Fw85zr2U4c%2F%2BDFdcmpRjpfuVJExA%3D%3D",
+      "width": 1600,
+      "height": 1067,
+      "alt": "扁平化耳機控制器"
+    },
+    {
+      "id": "6",
+      "largeURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657030111019.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=mervbE1fak4L1iqmNRAtx6iHCp0qw8wPx6%2BM9oVBeGxyzQOSlCzJT9moRoWscthd6hE5A1I4vLVddVl99MG%2BFQq5h%2BWNgaeTmUyOcj%2BmUiiB2rKvcQf%2BgZgOzZM1QTAc5lffcsxQBE%2Fh4PhbIVwdAR%2FfQqZLsxYqlSvvjAA1Xtu5n9psNzV8pOlLKgnEXli0ZI4dXWmXfg2uwv7LwLraAwwhJml0Y%2FCsTpVk8dkSuXZgga4c%2F5scXxhhl6AE1YwiGAmY0wiYbRQRGlC10d2gYSeyfg3%2BIbGAtldnGNGYw%2BbkC3dUmBnupyUozCe28F9l689YgzqsXdEMIhd5jv12Bg%3D%3D",
+      "thumbnailURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657030179109.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=lZX31zApavFfgw4P%2Bi77ery2A2qAf66zSSYGj1ukdkbChVszD2SpAFE7KFT%2BLZFcuanIKEAFtY79ab9Z9nn%2Fi2PKO9od0u2vJqlcJKAuBomghuww7dc3wR67XjmSh1FzfBQ%2FXmp3MrhNEvxB8gAQARtP0dFV27cmxGm95Zf70EFRk%2FNbCVReK9lZpKjjVTR02EnFn1nP84bChhkxwB%2FYHdp0L301Tp%2FQRsayiZvZLGWDDJcfoTj26cQXwHdkw9sdPfGK9elU7ACvnNezj%2FH872sbAl3m68%2BEM8fYdLqOvhKfNrYJpMCwj7dCyQSpAoddXIFM%2B61p53DbWpxn%2FFtcRg%3D%3D",
+      "width": 1600,
+      "height": 1067,
+      "alt": "SUP 立槳學習"
+    },
+    {
+      "id": "7",
+      "largeURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657030263216.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=hBZjYagUDieRRJ7dTvhu66%2F5OQ7AusC2ACdxYvjpsdqKwI2d93heuiLBMhhXIxoNOk83ms886fd4zUZZyVVP9BOmebk%2ByWvb6atWOvGnBOyK1Fz%2F65LRSMVJT0nLLfbxN%2BrOs7FlkHtichc5JRxERmgj10bCw205ygB8yzTTR8KOLrnruHo%2BQRO24HEeqPqcnmQIwHJyAFTU1Mli2rvP9ojX1HPSpJYJnVc6M1U49gCqvXZ%2BmakspPz2HFNU7MFKa3B1krLpYa4Ubz1TvEkJ1Zk3lANdSLgyDbZx%2B22FbDKvoW%2Br3dsn0yNccvTSwyVGYgRbWVsCdl%2B585dpx2lyhQ%3D%3D",
+      "thumbnailURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657030347337.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=HjlKaE%2BZMacSw4S9ChbpdNEv5G7hxp9Uhqs%2FToVXoQsDkw7oNOM4KX%2F2tL5O%2BJE98Smv2uRH%2Bgwe4H3TO8t77ZCvqFELUFSiCP1XrW2YS1VX%2Fwdt6p7rV%2B%2FGaG4eGF6Wo3MouR%2BKpl0niHnnCt%2F7OFSlDLV7seMV6LuIx3JvjE3skxu2AvupLfkBOllngdX85I6Gb70IemGEoo2axCEAc3EvpdzKL4J9IObGGejU%2FeSLVwZAfns3FGcYpcY2Ptco2%2FL1gNwCeR4tt1UNbQax6ULVtHJzpRnGktTUDZtjAnFyDyQEGKPXcMNGP%2Fnq2TPTsSHCFe%2BWqceT78S4yOlFRw%3D%3D",
+      "width": 1600,
+      "height": 1067,
+      "alt": "質感原木椅"
+    },
+    {
+      "id": "8",
+      "largeURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657030394338.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=VfBIQN3TEPEq%2BXOzX49nGXifJ3m1f7SJ%2BQcWdo%2BenbzKeUxvDaiRtOLJ6iyz0enCJN3dGXu9RpW7vRx3OIeHBtwV0C8NgJevOt6aZgqvshQYpffVh56xy4TfDQi%2FmNU3pjKx0RCHX%2BQNdpcuGnOLqdKBT8wxe3GBmh%2FhrZiPCWhWpLhtwgyBGmq4%2Bsxd9rcBBT4dYCImcdhGfTzBkmDQ1O1Qp1D1aL%2BBmwzBfXo5IBKy0z49R5FeRloCjgl%2BlrVshbV5TIxKXMFB88tTzgizf8GZbVO6oRiZh7JU2IA3Lq9i8YBmpeUZ7rk5OOWkLFXxjcq9mXCYFvGluQBQ7%2FQXBA%3D%3D",
+      "thumbnailURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1657030453727.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=fGjnOPdNVagXOznj2R913YwvomcBrPJexKWIjI56iinAOdN1fGY5fJZogSjUAfCnzuOZE5HD77zauCXvEpdFJirhNQKR6oavu2A0yukQr9bg6jp7yPmtrwotjtrQFXKVwkL9EewyPHA1R48Lmo2NnYpi9DKKpwK7Tx6aPVZ7WDW0wQ0BgnAC0xED%2BDOsPM28Oha%2F%2FnfweCZ9%2BpaBD6CUo1Z34v0Suj%2BRBmzBye25hcXoXxppA3YHHXBNejtMli0RWV0eRt5yjxR%2Baber0oFleq4Skfwd00QqfBC0vrQPcyE2w40TZ0pyaOhpVxp7bc4vId66DpTOJXTkdwpn%2BGD%2Fow%3D%3D",
+      "width": 1600,
+      "height": 1067,
+      "alt": "清新水果茶"
+    }
+  ],
+  "strength": [
+    "LOGO設計",
+    "網頁設計",
+    "原型製作",
+    "資訊架構(IA)",
+    "網頁實作",
+    "響應式網頁(RWD)",
+    "自適應式網頁(AWD)"
+  ],
+  "certificates": [
+    {
+      "id": "1",
+      "largeURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1656924059462.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=prO78jHD0k4kRUF%2FlygEG3QmCDRFCplpRkGCSravJiyMXZwfWejVOAN22TQcg5R%2BaOCZyLU%2Bi9%2FHx1XpFYahaNJzYIk%2FW5gGP24JOZdi8pAX6YEOe%2B77QlazMyKPxSU9Undqxi8Y%2FcCydXAsjiVlYQ7wBTJe5H6F50fXZs77FLjMYCeudLagC2chSPLzpQPbg7S8giPPnpqsjLLNiQmwQp%2BOC2bm5oWMOKm5X7N9wcsG5FSBlK%2F8xCHun4BS18GLTqPldreOTapxuvnCkOc%2BssYBSC0yFyfm0pleTLvwwJPSjbxig9YD1I3ABc971SEd3L1d74F36JgIrEKt2vvdtw%3D%3D",
+      "thumbnailURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1656920902697.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=pRtQiI%2B0szfaV9jYfMQucTiAxxSlkfel0zw5t%2BGQYcaUSc0XBEKSL%2BENvKdfDLXFOfbuOb9zdDeJskEE5k3iMiMpcSrBtpUeLE1G2gUOUD0bw5g%2BCdISAkXeP6s%2F%2Bn4XuR7NCAXwD2vGSN9c7MM4P9ad7iyDpv9K9vbYfm%2B0mYJ7vD5tXRAuLMfmfvQk3co8wcs04xGHFOs2Bn4H%2FlmrSRz1WY%2F0yobMATFhm53kiIi3vIziusLtSLNxKYTTaq5XoOROnxmPUQtGfWFcgniSXunVKUlv1pZcIXp702WDffK5l%2BMkdnli3%2BFcmYYlztsSiNXDqf6iY5SACUOC8HwHpA%3D%3D",
+      "width": 1200,
+      "height": 848,
+      "alt": "Vue 3 作品實戰班"
+    },
+    {
+      "id": "2",
+      "largeURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1664166344010.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=ncT4ikFSaoGqVZkwdbhk9okMbQ%2BjJpOB0PPOOW6qvn0WuDRtfsXHv3yK9odiq5ymy2AiMlmKcxksXIF7bE9%2B71QhHGX8IUtZ25G38fqFFPlvexndqcxJXJpxGGA7oBaWR8tYW0a34dJpsV7sR7%2B0ecjlIAm2yaM1NM0GCZp6Vry4Uplmr2fby7fwNgWP3hgXc5CpCE8yHpdeQw0RdAXi%2FEMiLDxjER04RqKA1IZnFz5UbjWeyItdgnsP08zh0hoiFxHaBsbdXsIMw0OUtJ%2BoKxMYAco0zQPF9R2WeBLU8t3UaQRsj1%2FTyfJeHN5vSzxDpGwElq7FsUIS0PIE16axVg%3D%3D",
+      "thumbnailURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1664166379627.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=ZGGZw1eAUkzYDjA3yNwcmXVu0M8LTeWfJQEk7vY8lTN8GIM7b2iR7%2BVWfcSnpWnslxT2yTMWNGddM8HkdlGImZIBmVao0KntBGa2Te9cR4BX70N8xB70G0mjZw0u1yHMp414l%2B8WPzdJe9lPSvU9g4%2Fy2ultlRqNu6mj56FeE9qUxAS4WMvZfSzUtYHWhA68z%2BzZF5s%2FcxHuxbxp7qLqvJusA2Q1AhO6VgaJnoewptxUZGypMCpJN5o9w%2FfdvYzi8yswe%2Fl2kOrrFubzEOzMqsMrHgXTy1k6ZEDkF5c1SPuzCGFav6yDJdH%2BK8oAExEZNVZeQGOVS0Si3SE4E7Ni1Q%3D%3D",
+      "width": 1200,
+      "height": 848,
+      "alt": "React 新手讀書會"
+    },
+    {
+      "id": "4",
+      "largeURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1664451946882.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=Yk7vzZjDsFeYcrp3Sx7qYDAP%2BmcZFUTutfkDx4RUz1mCQ5hf%2BN7%2BuXFGZo0TVl4C5w%2FK1XiAnhrXhhR70HacfkkO8TNB%2F6o3maDzJWI6WPoTSANndnzrNVY96L8y4NO4WhPP6wFVIpJLyfmkBglSuN8B%2F4TlluvMflC%2BHAvAzWvov7AGdu9Q8iZ0ePRmccBZzjDYJuB%2F2gft2NYsZ52F3E4AReImvXF3PfbhgO8qWTcdEc23Dg8S3CeHMXe9ai8gsFVaTvwTc32c0Il8cY1op7vTH1agwNKnvVQZ1ViYBSqDXu1w5b00vkQZ7EYfG2d6jqP1tSxB5wyZFj9yZAeO4g%3D%3D",
+      "thumbnailURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1664451984632.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=SRdbIw9W6ubW4Fx1yTxEFKrFKS9r6UCO6EKNd9PBxO65YTfQuMXsIUTEgp%2BoJ9NKspDnqXmf4OOUzs3rns8mQfgtrW%2FNa6a8C1oYaOeJFsHSTr3K6a6pVA0yAjKsjI2oqaN%2BrKi6h6HZxP8ni4n5wqIBDeM7JgLnJf2BeqTRMWCBRO9xUxAt7KRctg19o4%2B49ZWww4zWDXXapBtcgrJoz5kHvXr8vNvkQCr3xI%2BKWrnRVSVixUf7dcu4XfvX1ZFijW3O%2BHY10aTodB9jtFb2vszBguX9B6MnHyPRFQ83M0jeFMhG23b7aNxsP7PRIN12tOst2gvVNF6sbJ5ijcZ6Ag%3D%3D",
+      "width": 1200,
+      "height": 848,
+      "alt": "網頁切版直播班"
+    },
+    {
+      "id": "5",
+      "largeURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1656924078021.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=J%2Bq6gsheeapRoVZCvxD5VF7ReGIE269DT5erKKHinxOLQiZoTfMZfterhkGfS%2BagkSp3TLabIpmx0XuQ6Ih2EmnVJqx2t9ebl1Hk%2B8w%2FY%2FPsF66QlBQKhbj5OPyZiciNZp6cthd5Egj8tUS0mMk0HMv%2FGdHu1vYR5Dt58cPvS7c6sCPpDK5rPZwcSYqtY9Otj1UrDIIa%2BqWFN6qoRkR5TamLCmlQAYsJjo6GVPiwihgmt5mSVAciN0%2BE0h89kNqLXxfb%2Bg%2FT9TT9YbiiUZ%2FJ15mrAxo85lgl19iPhKq2obW44EPLEkS52DuQLgDcnYsOHhywkFIhReWX7s6%2Br0b%2Ffg%3D%3D",
+      "thumbnailURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1656920940927.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=nztQRd0AO3h57JMHt4mI1z3e%2FNY%2FUApRgQzK0%2BbB%2B%2BpxGlQ5rfTE8wdVrfjNY584yhHInROMYe9VTIEXPouLQzjoX%2B4cunhokqFe9JU1ztKndQeUAMNZ5T%2FQrnRiQ7sJ65jMPog%2F2mfrTdmjnuYCRvrJyi5xoGh7xo%2FjFZJN0yodXTGdWFs77ODqbfYe8kA1fYeHPef1CfCKWA0exInesjabff5bNBjlhLXiT2xyVznVhotCwDk8X7J7RZaXHbev7FCAVU2YNWrZ3N9tEsHeHekXTGXNy%2BYaxbzict9N9al14ZCIh6JMNAZ3RzsW9z%2BQ61Pz1yASIy23K27IzqfcCg%3D%3D",
+      "width": 1200,
+      "height": 848,
+      "alt": "掌握 git 與 github 程式時光機"
+    },
+    {
+      "id": "6",
+      "largeURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1656924037305.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=aLYN9gtEIZauoZ%2B%2FRyCEhU9aeRPpuknp5lTNeyH6phM467j8rYa229u3OjvRijb8XQBDA3D90lW8zOfj4yFF5dnYJinQzFR8ok5I%2B2v3SS3FUF%2BKuYSeq7q0qBlqV8UsFPLwp2tpQ5X7CMMcsy%2BBkxDoZrxgRvBpJc6wKLAGa0DPZpYbmZAXA03GdWMNYzhNVM7nHxDYD2mzlejJUD4OK%2FGvTn8%2B%2BH74hR%2B0DGnvbFW66Sn67fam0d8SBoMjx97zey630GYQV460FjVvsTV64ZI5WhR038EMNRFyIJmA6xfFFe5ML%2BNtFzQzls69tJ1kQpZIDTkvD%2F6ataEzCWqGtA%3D%3D",
+      "thumbnailURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1656920868590.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=NzlK06WitFSW%2FMpFtfK2dapF6VAIJf7ZeDbIIDHpYMmYyDyQokSwcSdPmzAicC%2BRT1hV27O%2FJnnZzCoYtR2ijcPkoX4p2XwF33dhK48M%2BpRDN6bwBFMdNob%2BmZf3m2wy7QgoN7QUC3E8F3TIHj5N0XbaNDnEEyW7TI0NB5PxYniUT6mK%2FfozIGM0v1wDZ%2B5QAUH%2FtjnkCRAFKaDBACffNAXyg5%2BQLUh7U2He9sO9JjSto56kCs7NBr0iUZcftG8jKz0Az2qL%2FkDwxBzOPe%2FZGp6bWMKnVjcVbf0LBhoUn1Ei0VgwxB%2F%2FMz9XtzGu7QyvSet68lrMte3abERqDSoVuw%3D%3D",
+      "width": 1200,
+      "height": 675,
+      "alt": "21 天 Figma 線上實戰營"
+    },
+    {
+      "id": "7",
+      "largeURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1656924125268.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=iJEm3GMqdP91AItDp4PYkDyGQm2ceu5PW96OLdohIbFcinWOHtrq7qlyIS%2BHHEQbfdoGyU7qN2cQB7HZPPRD6FYeyy3B3gQBp0A5qgnr176UMltuExfyhbLY8TY2lSv9mDXRDawaCEnmGj2bPkZWRJb52wQqqyaBZ0HgeAZ8xx7A0FqN3MztxvrfUItvH9ldem11M4xDoBqG90ewptvpsttke5u9As4AUlL7cNeDNfH%2BsZHj444LLOIOAxjjfcGA2lE1kJq1RxBHbciJrqwTGVuY6zwFjb9CeJvzUJebq9bTIY54546Q2hrTGuE%2FTQIQlRyBABg6OhquiFHhoKtpRw%3D%3D",
+      "thumbnailURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1656920994505.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=CPReCBQCfH5TqlWAq6jchVSEObk46g5MeE6BJE3G2%2Bvq95Nl9AKo%2BhGjf5Il9IM4TTCYTfXIjPy7qfK3Z5foiz5VWMeYuBomNUOuy4lpwy0%2BffqY%2Fgzh%2Be0opkVMHW60s1sBXKE0hoGa1dA%2FRJ%2BacupxY6We4Co2R8kMp1gcYLADJakusqH8JuskA41HTZNUvWCm0P%2BwabXKuabA0xlvAoYGLomgHBSa5jCcrFaJRklyd1n5a%2B9UGxaF51jxa1PUe%2BqdnRE6m2og32f2AobyvH%2FjQMSaOXq8RvC6aMoIM76lGmOm%2Fv%2FQf0HqbYqTtY5%2BubLR0X5nooK94kdFa7KXKQ%3D%3D",
+      "width": 1200,
+      "height": 1732,
+      "alt": "打造設計說服力"
+    },
+    {
+      "id": "8",
+      "largeURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1656924146650.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=NIKzCe%2F9FGUPiTAqfTfeZwe1C%2B3cC%2Fdsl8Q5t4yWuHQ4%2BVrcKKRZMC5aGoJf80N1cbqEhmJ2%2BSfgkEOHtgIITh8u0Xw%2BlN9JK1%2BJEBmiS3QCZL1I1F16wQI3ra1Sp75ax4CgxTO2e%2BQqsvxbgSG7yZ%2Bb9%2Fsf7Zx8PGe0NGDaZ0zzA0HNdS%2FLQDCsqpgJDcNgbWtq39rZSUDy12UbSbmMJdmWRYTbKZniaWW3rfYyl%2Fldtw0n2hL207ssMUB7Ggi80ReS8fym93M0w0h4AySzeVsO8UGRlK7i9kUxSGAyQyzkQqGUdATHzTwJZmfKQkYbXMp49nsf1LzLDk2z%2F%2BdJZQ%3D%3D",
+      "thumbnailURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1656921014952.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=RlO7uh7QIjfvOGuxt7GLf4b82T%2BBddD5kBEazozyiV%2BBAWIn2v0sDHNL80bbRcxgOlCbGZsC76KUDv%2FeElwut4jwzWCAhnIUmocxfusN0RnrrcBegknKnaE8y6AOM24QVDquFAiAgmrdHozj3MLpEDxnR6Ld%2BLSatz9vJDlLxKPUAECHtmBrvkDLAahG86peF8ccUPf%2FZ1jB0Q0K5Tuf5ZpaEWSBvqmOSexn4whlNHCoYxhqwotTArPKjlhf%2Bza8qsjW3d3FDTpk1YOWxNx6i1VjmQ05%2FMS0k172kotOx6t6dq%2F9NK2v9ADhGNQrJLOWUDjcvNjU5plo%2F1kZiiVszQ%3D%3D",
+      "width": 1200,
+      "height": 848,
+      "alt": "拆解商業 logo 案例"
+    },
+    {
+      "id": "9",
+      "largeURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1656924104657.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=Gl4kr2mmer%2BosbmIYbzcyhoggMnsab1gRRZSC%2FY7uoVVdwAITPX2vHoSCZTkUGvxKdk2iA3mF8eI%2Fa1knNLSH8FajqO8AK9YcL%2Fk91i5EtOxbHJNXo4A1wY6jUjfCntRna2JxB8amBMJo0%2F5CKeX7VMiLBhZJugYc9bov4%2B2wtG5PzhFB3PZ1W1jSk9%2FPyfd0PejckiG4iX1BdhWz1NPjJhL3txfXASTWMlbzpJVngqys4cG%2BP9eAaeQRRANrDGmK4OjaYzeJtnu%2Fug7Mrs8wK4hxgzfxwrTG86Dl3OyMhjqP3Y48GIHzUdXqTCo4pu8oVkaKv0O1A2dJgKMbELw7g%3D%3D",
+      "thumbnailURL": "https://storage.googleapis.com/vue-course-api.appspot.com/letcla/1656920971069.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=ag9UoB1n%2F4Q7l3ujRNduUHUjBMvDNEqo10lahXAJUDoS4Sm1Kulej6%2B%2FiTA%2Fbzuh%2FYD%2B7YMSF78wafXn%2FJoyPHnYZWt5rhjFu3thRtNl8PDAYduKJHGQ4MMssERTuPwmg%2FFoH9cHrMPYafIZuPqb0FE0j%2BQ4aMC83a%2BOOO%2BjGljWfZUjUP1FMddktOq7gPQtcamTXh0NoTEyeZ1%2BDUs%2FpaDcultbNIWWE2yy85Dkh%2FhLiRDmLBQBDeb%2BGeem76nu8TIW%2BkTXZF8wNyWHbSmEh%2Bx%2Fjdf5JZ89%2BruJ9yDlaZAswz%2Fg1BxvOicb02JSYOrbLJZQWJXYS9gg6AOhME8Pag%3D%3D",
+      "width": 1200,
+      "height": 848,
+      "alt": "Google Analytics"
+    }
+  ],
+  "toolIcons": [
+    {
+      "id": "1",
+      "img": "./tool-icons/icon-01.svg",
+      "alt": "HTML 5"
+    },
+    {
+      "id": "2",
+      "img": "./tool-icons/icon-02.svg",
+      "alt": "CSS 3"
+    },
+    {
+      "id": "3",
+      "img": "./tool-icons/icon-03.svg",
+      "alt": "JavaScript"
+    },
+    {
+      "id": "4",
+      "img": "./tool-icons/icon-04.svg",
+      "alt": "JQuery"
+    },
+    {
+      "id": "5",
+      "img": "./tool-icons/icon-05.svg",
+      "alt": "Bootstrap"
+    },
+    {
+      "id": "6",
+      "img": "./tool-icons/icon-06.svg",
+      "alt": "VS Code"
+    },
+    {
+      "id": "7",
+      "img": "./tool-icons/icon-07.svg",
+      "alt": "Photoshop"
+    },
+    {
+      "id": "8",
+      "img": "./tool-icons/icon-08.svg",
+      "alt": "Illustrator"
+    },
+    {
+      "id": "9",
+      "img": "./tool-icons/icon-09.svg",
+      "alt": "Figma"
+    },
+    {
+      "id": "10",
+      "img": "./tool-icons/icon-22.svg",
+      "alt": "Whimsical"
+    },
+    {
+      "id": "11",
+      "img": "./tool-icons/icon-11.svg",
+      "alt": "inVision"
+    },
+    {
+      "id": "12",
+      "img": "./tool-icons/icon-14.svg",
+      "alt": "Zeplin"
+    },
+    {
+      "id": "13",
+      "img": "./tool-icons/icon-15.svg",
+      "alt": "Bootstrap 5"
+    },
+    {
+      "id": "14",
+      "img": "./tool-icons/icon-16.svg",
+      "alt": "Tailwind CSS"
+    },
+    {
+      "id": "15",
+      "img": "./tool-icons/icon-17.svg",
+      "alt": "SCSS"
+    },
+    {
+      "id": "16",
+      "img": "./tool-icons/icon-18.svg",
+      "alt": "Vue 3"
+    },
+    {
+      "id": "17",
+      "img": "./tool-icons/icon-19.svg",
+      "alt": "Webpack 5"
+    },
+    {
+      "id": "18",
+      "img": "./tool-icons/icon-21.svg",
+      "alt": "Gulp 4"
+    },
+    {
+      "id": "19",
+      "img": "./tool-icons/icon-20.svg",
+      "alt": "Git"
+    },
+    {
+      "id": "20",
+      "img": "./tool-icons/icon-23.svg",
+      "alt": "React"
+    }
+  ]
+}
