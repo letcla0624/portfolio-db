@@ -62,6 +62,42 @@
       ]
     }
   ],
+  "f2e": [
+    {
+      "id": "1",
+      "title": "The F2E 活動網站設計",
+      "description": "主要負責網站頁面規劃、設計，並執行網頁切版、JQuery 的動態顯示和 JavaScript 的應用。",
+      "url": "https://letcla0624.github.io/motiongraphic/",
+      "img": "https://images.thef2e.com/2022/works/12061549261454740203_2022-11-05T04:09:39.406Z.png",
+      "alt": "The F2E 活動網站設計",
+      "year": "2022",
+      "skills": [
+        "HTML 5",
+        "CSS 3",
+        "Tailwind CSS",
+        "JavaScript",
+        "RWD",
+        "GreenSock"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Scrum 新手村",
+      "description": "設計師小菜使用了 Pixel Art 的設計風格，讓我想做成類似 DOS 版的 RPG 遊戲感。",
+      "url": "https://letcla0624.github.io/scrum/",
+      "img": "https://images.thef2e.com/2022/works/12061549261446456235_2022-11-18T16:36:06.420Z.png",
+      "alt": "母嬰工具App",
+      "year": "2020",
+      "skills": [
+        "HTML 5",
+        "CSS 3",
+        "Tailwind CSS",
+        "JavaScript",
+        "Animation",
+        "Type.js"
+      ]
+    }
+  ],
   "tailwinds": [
     {
       "first": [
