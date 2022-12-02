@@ -66,7 +66,7 @@
     {
       "id": "1",
       "title": "The F2E 活動網站設計",
-      "description": "主要負責網站頁面規劃、設計，並執行網頁切版、JQuery 的動態顯示和 JavaScript 的應用。",
+      "description": "EG 設計師的設計稿整體風格超可愛，所以試著實現這種捲動式互動設計頁面。",
       "url": "https://letcla0624.github.io/motiongraphic/",
       "img": "https://images.thef2e.com/2022/works/12061549261454740203_2022-11-05T04:09:39.406Z.png",
       "alt": "The F2E 活動網站設計",
@@ -76,6 +76,7 @@
         "CSS 3",
         "Tailwind CSS",
         "JavaScript",
+        "Animation",
         "RWD",
         "GreenSock"
       ]
