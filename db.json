@@ -56,13 +56,14 @@
         "Bootstrap 5",
         "Vue 3",
         "Vue CLI",
+        "VeeValidate",
         "JavaScript",
         "Leaflet",
         "RWD"
       ]
     }
   ],
-  "f2e": [
+  "f2es": [
     {
       "id": "1",
       "title": "The F2E 活動網站設計",
